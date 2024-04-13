@@ -3,5 +3,5 @@
 3-   n1 = n-1; #Processamento
 4-   n2 = 10-n; #Processamento
 5-   r = (n1x10) + (n-1); #Processamento
-5-   Imprima r; #Saída
-6-   Fim
+6-   Imprima r; #Saída
+7-   Fim
