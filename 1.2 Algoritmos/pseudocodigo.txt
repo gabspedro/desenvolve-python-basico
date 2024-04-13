@@ -1,0 +1,6 @@
+1-   Ínico
+2-   Leia n; #Entrada
+3-   n1 = n-1; #Processamento
+4-   n2 = 10-n; #Processamento
+5-   Imprima n1 e n2; #Saída
+6-   Fim
