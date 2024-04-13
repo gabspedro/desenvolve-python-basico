@@ -1,3 +1,4 @@
-1-  Leia e Armazene os dois números da tábuada de nove (Ex: 9 e 4, onde 4 = n). #Entrada
-2-  Aplique os números armazenados e aplique na seguinte conta, logo após armazene o resultado: n-1 = n1 e 10-n = n2. #Processamneto
-3-  Apresente o resultado das duas substrações de forma que formem apenas um número (Ex: 9x4 = n1n2 // 9x4 = 36, sendo 3 o n1 e 6 o n2). #Saída
+1-  Leia e Armazene o número que será multiplicado por 9; #Entrada
+2-  Aplique o número armazenado nas duas contas a seguir: n1 = n-1, n2 = 10-n; #Processamneto
+3- Aplique os resultados na expressão a seguir: r = (n1x10)+(n2)
+4-  Apresente o resultado e finalize; #Saída
