@@ -2,6 +2,6 @@
 2-   Leia n; #Entrada
 3-   n1 = n-1; #Processamento
 4-   n2 = 10-n; #Processamento
-5-   r = (n1x10) + (n-1); #Processamento
+5-   r = (n1x10)+(n2); #Processamento
 6-   Imprima r; #Saída
 7-   Fim
